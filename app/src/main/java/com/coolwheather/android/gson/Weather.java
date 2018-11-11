@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Weather {
 
-    public String statue;
+    public String status;
 
     public Basic basic;
 
